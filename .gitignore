@@ -44,3 +44,4 @@ pids
 
 # Others
 *.tgz
+.vercel
